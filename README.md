@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=69F712&background=000000A5&width=650&lines=Hello+I'm+Govind+Ramachandran.;I'm+a+Cloud+Infrastructure+Specialist." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=69F712&background=000000A5&width=650&lines=Hello+Myself+Govind+Ramachandran.;I'm+a+Cloud+Infrastructure+Specialist." alt="Typing SVG" /></a>
 <br />
 </br>
 
